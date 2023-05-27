@@ -1,0 +1,11 @@
+C:\Users\андрей\Desktop\zadanieForm\bin\Debug\zadanieForm.exe.config
+C:\Users\андрей\Desktop\zadanieForm\bin\Debug\zadanieForm.exe
+C:\Users\андрей\Desktop\zadanieForm\bin\Debug\zadanieForm.pdb
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.Properties.Resources.resources
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.csproj.GenerateResource.cache
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.exe
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.pdb
+C:\Users\андрей\Desktop\zadanieForm\obj\Debug\zadanieForm.Form1.resources
