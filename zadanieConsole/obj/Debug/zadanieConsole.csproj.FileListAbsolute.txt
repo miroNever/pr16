@@ -1,0 +1,8 @@
+C:\Users\андрей\Desktop\zadanieConsole\bin\Debug\zadanie1.exe.config
+C:\Users\андрей\Desktop\zadanieConsole\bin\Debug\zadanie1.exe
+C:\Users\андрей\Desktop\zadanieConsole\bin\Debug\zadanie1.pdb
+C:\Users\андрей\Desktop\zadanieConsole\obj\Debug\zadanieConsole.csproj.AssemblyReference.cache
+C:\Users\андрей\Desktop\zadanieConsole\obj\Debug\zadanieConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\андрей\Desktop\zadanieConsole\obj\Debug\zadanieConsole.csproj.CoreCompileInputs.cache
+C:\Users\андрей\Desktop\zadanieConsole\obj\Debug\zadanie1.exe
+C:\Users\андрей\Desktop\zadanieConsole\obj\Debug\zadanie1.pdb
